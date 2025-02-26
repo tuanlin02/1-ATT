@@ -1,0 +1,221 @@
+.head{
+    width: 100%;
+    height: 708px;
+
+}
+
+.head .navbar{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.head .navbar .sub-box{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.head .navbar .sub-box p{
+    font-size: 18px;
+    color: #6c6c6c;
+}
+
+.head .navbar .sub-box span{
+    font-size: 18px;
+    color: #6c6c6c;
+}
+
+
+.section{
+    width: 100%;
+    height: 700px;
+    background-image: url(image\ \(37\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.section .text .p1{
+    font-size: 14px;
+    color: #d77474;
+    font-weight: 700;
+
+}
+
+.section .text h1{
+    font-size: 48px;
+    color: black;
+    font-weight: 700;
+
+}
+
+
+
+.section .text .p2{
+    font-size: 16px;
+    color: #6c6c6c;
+
+}
+
+
+.section .text button{
+    width: 201px;
+    height: 62px;
+    background-color: #ac1313;
+    color: white;
+    font-size: 12px;
+    border: none;
+}
+
+
+
+
+
+.Vasila{
+    width: 100%;
+    height: 969px;
+}
+.Vasila .Vasila1{
+    width: 100%;
+    height: 117px;
+    justify-content: center;
+    text-align: center;
+}
+.Vasila .Vasila2{
+    width: 100%;
+    height: 240px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Vasila .Vasila3{
+    width: 100%;
+    height: 222px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Vasila .Vasila3 .div1{
+    width: 50%;
+    height: 222px;
+    margin-left: 90px;
+}
+.Vasila .Vasila3 .div2{
+    width: 50%;
+    height: 222px;
+    margin-left: 90px;
+}
+
+
+
+
+
+.kuzacha{
+    width: 100%;
+    height: 1033px;
+    display: flex;
+    align-content: space-between;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.872);
+}
+
+.kuzacha .kuza1{
+    width: 50%;
+    align-items: center;
+    margin-left: 14px;
+    justify-content: space-between;
+}
+
+.kuzacha .kuza1 .kuza-back1{
+    background-image: url(kozaca\ foni.png);
+    width: 500px;
+    height: 220px;
+    margin-top: 200px;
+    margin-left: -25px;
+}
+
+
+.kuza-img1 img{
+    position: absolute;
+    margin-top: -320px;
+    margin-left: 60px;
+}
+
+.kuzacha .kuza1 p{
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+.kuzacha .kuza1 h4{
+    font-size: 20px;
+    font-weight: 1000;
+}
+
+.kuzacha .kuza2 p{
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+.kuzacha .kuza2 h4{
+    font-size: 20px;
+    font-weight: 1000;
+}
+
+.kuzacha .kuza2 .kuza-back2{
+    background-image: url(kozaca\ foni.png);
+    width: 500px;
+    height: 220px;
+    margin-top: 100px;
+}
+
+.kuza-img2 img{
+    position: absolute;
+    margin-top: -290px;
+    margin-left: 50px;
+}
+
+
+
+
+
+
+.min{
+    width: 100%;
+    height: 1697px;
+    background-color: aqua;
+}
+
+.min .min-text{
+    width: 1152px;
+    height: 94px;
+    justify-content: center;
+    margin-left: 24px;
+    flex-wrap: wrap;
+}
+
+.min .min-text h4{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    color: #d77474;
+    margin-left: 797px;
+}
+
+.min .min-text h1{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: center;
+    margin-left: 799px;
+}
+
